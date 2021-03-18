@@ -1,0 +1,8 @@
+name: AutoEncoder
+author: Brick,TurtleCamera
+version: 1.0
+main: me.Brick.TurtleCamera.AutoEncoder.Main
+api-version: 1.14
+commands:
+    autoencoder:
+        description: Main command for AutoEncoder.
